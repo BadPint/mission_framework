@@ -1,2 +1,2 @@
 # mission_framework
-Place to maintain all the serveer
+Place to maintain all the server
